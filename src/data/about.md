@@ -1,35 +1,34 @@
 # Intro
 
-I'm a Full Stack Java Developer with a strong foundation in Java and JavaScript(React, node) frameworks. Proven expertise
-in driving system enhancements and observability initiatives using tools like Prometheus, Opentelemetry,
-Datadog . Experienced in site reliability engineering (SRE) practices, including database migrations and
-user experience optimization on a global scale. Skillful in leveraging Java, React, and Node.js to deliver
-innovative solutions that enhance business operations and drive efficiency.
+Technical Content Specialist with expertise in product documentation, including catalogs, user guides, troubleshooting guides, and API documentation using Adobe FrameMaker. Experienced in
+creating content, developing microsites, and designing landing pages with Adobe Experience Manager. Proficient in DITA, Markdown, and Oxygen XML. Skilled in developing training videos with
+Camtasia and applying SEO techniques using tools like Google Keyword Planner and Google Analytics.
+
 
 # Education
 
-- **M.S. in Computer Information Systems**<br>
-  Colorado State University, Fort Collins &nbsp; &nbsp;(Aug 2023 - Dec 2024)
+- **B.E in Industrial Engineering and Management**<br>
+  DR.Ambedkar Institute of Technology, Bengaluru &nbsp; &nbsp;(Aug 2014 - Aug 2018)
 
-- **B.E. in Electronics and Communication Engineering**<br>
-  University Visvesvaraya College of Engineering  &nbsp; &nbsp;(Aug 2014 - Jul 2019)
+- **12th PCMB**<br>
+  Seshadripuram Composite P.U College  &nbsp; &nbsp;(June 2012 - Jul 2014)
 
 
   # Work Experiences 
 
-  - **FordPro**, Software Engineer  &nbsp; &nbsp;Feb 2023 -Aug 2023 
-  - **IronMountain**, Java Software Engineer   &nbsp;&nbsp; Sep 2019 - Jan 2023
-  - __IronMountain__, Software Intern, &nbsp; &nbsp; Summer 2019
+  - **Mouser Electronics**, Technical Content Specialist II  &nbsp; &nbsp;Feb 2022 - Present 
+  - **Sri Vinayaka Entreprises**, Facility Superviser   &nbsp;&nbsp; Aug 2018 - Jan 2022
+  - Volvo Construction Equipment, Intern, &nbsp; &nbsp; Summer 2018
 
 # I Like
 
-- Good design
-- Books
-- Badminton
-- Volleyball
-- hiking
-- Cycling
 - Anime
+- Books
+- Formula One
+- Hiking
+- DJ
+- Cycling
+- Fitness Activities
 - videogames
 
 <!-- # Websites from People I Admire
