@@ -8,7 +8,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/chandanshyam',
+    link: 'https://github.com/Puru-Ram',
     label: 'Github',
     icon: faGithub,
   },
