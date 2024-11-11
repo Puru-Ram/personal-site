@@ -13,10 +13,10 @@
  */
 const work = [
   {
-    name: 'FordPro',
-    position: 'Software Engineer',
-    startDate: '2023-02-01',
-    endDate: '2023-08-01',
+    name: 'Mouser Electronics',
+    position: 'Technical Content Specialist II',
+    startDate: '2022-02-14',
+    endDate: 'Till Present',
     highlights: [
       'Upgraded Java Logging Library to Java 17 and Spring Boot, improving system observability and reliability.',
       'Automated Datadog metric integration using Terraform, reducing integration time by 95%.',
