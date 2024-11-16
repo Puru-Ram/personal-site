@@ -13,17 +13,17 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://www.instagram.com/_chandan_shyam_/',
+    link: 'https://www.instagram.com/a_darkspirit007/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/chandan-p/',
+    link: 'https://www.linkedin.com/in/purushotham-m-9b942a228/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:chandanparameshwarappa96@gmail.com',
+    link: 'mailto:lt.pururam@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
