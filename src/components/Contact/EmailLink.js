@@ -12,9 +12,9 @@ const validateText = (text) => {
 const messages = [
   'Well You Made It Till Here',
   'Better Hire me',
-  'uhhh Java',
-  'The only thing that ever sat its way to success was a hen',
-  'You cant have a million-dollar dream with a minimum wage work ethic',
+  'I document, therefore I am (your last hope).',
+  'Write it like you’re explaining to your grandma—then cut the fluff.',
+  'Typos fear me, developers love me, and users thank me.',
 ];
 
 const useInterval = (callback, delay) => {
