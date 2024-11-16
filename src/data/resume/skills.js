@@ -1,140 +1,60 @@
 const skills = [
   {
-    title: 'Java',
+    title: 'DITA',
     competency: 5,
-    category: ['Languages', 'Web Development'],
+    category: ['Languages', 'Technical Writing'],
   },
   {
-    title: 'C',
+    title: 'Markdown',
     competency: 3,
     category: ['Languages'],
   },
   {
-    title: 'C++',
-    competency: 1,
+    title: 'XML',
+    competency: 3,
     category: ['Languages'],
   },
   {
-    title: 'C#',
+    title: 'SEMrush',
     competency: 4,
-    category: ['Languages', 'Web Development'],
+    category: ['Tools', 'SEO'],
   },
   {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
+    title: 'Adobe Experience Manager',
+    competency: 4,
+    category: ['Tools'],
   },
   {
-    title: 'Python',
+    title: 'Adobe Frame Maker',
     competency: 3,
-    category: ['Languages'],
+    category: ['Tools'],
   },
   {
-    title: 'SQL',
+    title: 'Markup',
     competency: 4,
     category: ['Languages', 'Databases', 'Web Development'],
   },
   {
-    title: 'JavaScript',
+    title: 'Camtasia',
     competency: 4,
-    category: ['Languages', 'Web Development'],
+    category: ['tools', 'Web Development'],
   },
   {
-    title: 'React',
-    competency: 3,
-    category: ['Frameworks', 'Javascript', 'Web Development'],
-  },
-  {
-    title: 'Next.js',
-    competency: 2,
-    category: ['Frameworks', 'Javascript', 'Web Development'],
-  },
-  {
-    title: 'EXTJS',
-    competency: 3,
-    category: ['Frameworks', 'Javascript', 'Web Development'],
-  },
-  {
-    title: 'Spring',
-    competency: 4,
-    category: ['Frameworks', 'Web Development'],
-  },
-  {
-    title: 'Hibernate',
-    competency: 3,
-    category: ['Frameworks', 'Web Development'],
-  },
-  {
-    title: 'Open Telemetry',
+    title: 'Adobe Photoshop',
     competency: 3,
     category: ['Tools', 'Web Development'],
   },
   {
-    title: 'Tekton',
-    competency: 3,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'GIT',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
-    title: 'Datadog',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'SonarQube',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'FOSSA',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Apache Maven',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Production Support Tools',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Linux',
-    competency: 4,
-    category: ['Platforms', 'Web Development'],
-  },
-  {
-    title: 'Google Cloud Platform (GCP)',
-    competency: 4,
-    category: ['Platforms', 'Cloud', 'Web Development'],
-  },
-  {
-    title: 'RedHat OpenShift',
-    competency: 3,
-    category: ['Platforms', 'Cloud', 'Web Development'],
-  },
-  {
-    title: 'Docker',
-    competency: 3,
-    category: ['Platforms', 'Tools', 'Cloud'],
+    title: 'SQL',
+    competency: 1,
+    category: ['Language', 'Web Development'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 1,
     category: ['Platforms', 'Cloud', 'Tools'],
   },
-  {
-    title: 'Database Development',
-    competency: 4,
-    category: ['Databases', 'Web Development'],
-  },
-].map((skill) => ({ ...skill, category: skill.category.sort() }));
+  ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
