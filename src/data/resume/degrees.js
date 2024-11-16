@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Colorado State University',
-    degree: 'M.S. Computer Information Systems',
-    link: 'https://www.colostate.edu/',
-    year: 2024,
+    school: 'Dr. Ambedkar Institute of Technology',
+    degree: 'B.E in Industrial Engineering & Management',
+    link: 'https://drait.edu.in/',
+    year: 2018,
   },
   {
-    school: 'University Visvesvararya College of Engineering',
-    degree: 'B.Tech. Electrical Engineering, Computer Engineering',
-    link: 'https://uvce.ac.in/',
-    year: 2019,
+    school: 'Seshadripuram Composite P.U College',
+    degree: '+2 PCMB',
+    link: 'https://www.scpucblr.ac.in/',
+    year: 2014,
   },
 ];
 
