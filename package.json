@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://chandanshyam.github.io/personal-site",
+  "homepage": "https://puru-ram.github.io/personal-site",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandanshyam/personal-site.git"
+    "url": "https://github.com/Puru-Ram/personal-site.git"
   },
   "engines": {
     "node": ">=20.x"
