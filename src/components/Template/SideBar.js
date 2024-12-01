@@ -21,8 +21,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p> Hi, I&apos;m Purushotham. I am a B.E Graduate in Industrial Engineering & Management from Bengaluru. Currently, I
-        am employed as Technical Content Specialist II at <a href="https://www.tti.com/content/ttiinc/en.html">TTI.Inc</a>
+      <p>Hi, I&apos;m Purushotham. I am a B.E Graduate in Industrial Engineering & Management
+        from Bengaluru. Currently, I am employed as Technical Content Specialist II at <a href="https://www.tti.com/content/ttiinc/en.html">TTI.Inc</a>
       </p>
       <ul className="actions">
         <li>

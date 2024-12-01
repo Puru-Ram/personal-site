@@ -36,8 +36,7 @@ const work = [
       'Designed and published Intranet pages and newsletters for GRC regions, following the Double Diamond Theory – Discover, Define, Ideate, Design, and Test.',
       'Develop detailed hardware documentation using Adobe FrameMaker, including datasheets and catalogs.',
       'Conducted training sessions for the new hires on processes and operations, and conducted individual quality audits.',
-      'Played a pivotal role in establishing a team from the ground up for the organization.'
-,
+      'Played a pivotal role in establishing a team from the ground up for the organization.',
     ],
   },
   {
@@ -63,8 +62,7 @@ const work = [
     endDate: '2016-07-09',
     highlights: [
       'Construction Equipment manufacturing and assembly lines.',
-      'Worked on improving of 6S conditions in mix model assembly line by efficient space management (using DMAIC methodology).'
-,
+      'Worked on improving of 6S conditions in mix model assembly line by efficient space management (using DMAIC methodology).',
     ],
   },
 ];

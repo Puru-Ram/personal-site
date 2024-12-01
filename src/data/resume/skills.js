@@ -54,7 +54,7 @@ const skills = [
     competency: 1,
     category: ['Platforms', 'Cloud', 'Tools'],
   },
-  ].map((skill) => ({ ...skill, category: skill.category.sort() }));
+].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
